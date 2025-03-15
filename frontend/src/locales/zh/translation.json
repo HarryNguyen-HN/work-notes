@@ -1,0 +1,68 @@
+{
+    "content": {
+        "viewJobDetail": "查看职位详情",
+        "workCompletionChart": "成员完成工作的图表",
+        "today": "今天",
+        "thisWeek": "本周",
+        "thisMonth": "本月",
+        "thisYear": "本年",
+        "allTime": "所有时间",
+        "custom": "自定义",
+        "startDate": "开始日期",
+        "endDate": "结束日期"
+    },
+    "button": {
+        "addJob": "添加",
+        "cancel": "取消",
+        "captureChart": "捕获图表",
+        "delete": "删除",
+        "edit": "编辑",
+        "save": "保存",
+        "search": "搜索",
+        "viewDetail": "查看详情",
+        "importData": "导入数据",
+        "exportData": "导出数据"
+    },
+    "menu": {
+        "home1": "主页 1",
+        "home2": "主页 2",
+        "member": "会员",
+        "inventory": "库存",
+        "dashboard": "仪表板",
+        "handler": "处理人",
+        "type_abnormal": "类型-异常",
+        "dept": "部门",
+        "jobTracker": "工作跟踪器",
+        "about": "关于我们",
+        "actions": "行动",
+        "mis_storage": "MIS 存储",
+        "device": "设备"
+    },
+    "jobTracker": {
+        "stt": "序号",
+        "job": "工作",
+        "dept": "部门",
+        "numberOfOccurrences": "发生次数",
+        "handler": "处理人",
+        "content": "内容",
+        "processingTime": "处理时间",
+        "site": "地点",
+        "level": "级别",
+        "type": "类型",
+        "abnormal": "异常",
+        "receivedTime": "接收时间",
+        "completedTime": "完成时间",
+        "date": "日期",
+        "act": "操作",
+        "device": "设备",
+        "quantity": "数量",
+        "dept_receiver": "接收部门",
+        "receiver": "接收者",
+        "device_moved_to_storage": "设备已运送到仓库",
+        "device_moved_out_storage": "设备已从仓库运出"
+    },
+    "modal": {
+        "saveChanges": "您确定要保存这些更改吗",
+        "deleteChanges": "您确定要删除这份工作吗"
+    }
+}

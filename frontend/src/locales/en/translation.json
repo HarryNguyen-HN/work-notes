@@ -1,0 +1,69 @@
+{
+    "content": {
+        "viewJobDetail": "View Job Detail",
+        "workCompletionChart": "Completed Work Chart of Members",
+        "today": "Today",
+        "thisWeek": "This Week",
+        "thisMonth": "This Month",
+        "thisYear": "This Year",
+        "allTime": "All Time",
+        "custom": "Custom",
+        "startDate": "Start Date",
+        "endDate": "End Date"
+    },
+    "button": {
+        "add": "Add",
+        "cancel": "Cancel",
+        "captureChart": "Capture Chart",
+        "close": "Close",
+        "delete": "Delete",
+        "edit": "Edit",
+        "save": "Save",
+        "search": "Search",
+        "viewDetail": "View Detail",
+        "importData": "Import Data",
+        "exportData": "Export Data"
+    },
+    "menu": {
+        "home1": "Home",
+        "home2": "Home 2",
+        "member": "Member",
+        "inventory": "Inventory",
+        "dashboard": "Dashboard",
+        "handler": "Handler",
+        "type_abnormal": "Type-Abnormal",
+        "dept": "Dept",
+        "jobTracker": "Job Tracker",
+        "about": "About",
+        "actions": "Actions",
+        "mis_storage": "MIS Storage",
+        "device": "Device"
+    },
+    "jobTracker": {
+        "stt": "STT",
+        "job": "Job",
+        "dept": "Dept",
+        "numberOfOccurrences": "Number of occurrences",
+        "handler": "Handler",
+        "content": "Content",
+        "processingTime": "Processing time",
+        "site": "Site",
+        "level": "Level",
+        "type": "Type",
+        "abnormal": "Abnormal",
+        "receivedTime": "Received Time",
+        "completedTime": "Completed Time",
+        "date": "Date",
+        "act": "Act",
+        "device": "Device",
+        "quantity": "QTY",
+        "dept_receiver": "Dept-Received",
+        "receiver": "Receiver",
+        "device_moved_to_storage": "Device moved to storage",
+        "device_moved_out_storage": "Device moved out of storage"
+    },
+    "modal": {
+        "saveChanges": "Are you sure you want to save these changes?",
+        "deleteChanges": "Are you sure you want to delete this job?"
+    }
+}

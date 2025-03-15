@@ -1,0 +1,69 @@
+{
+    "content": {
+        "viewJobDetail": "Xem chi tiết công việc",
+        "workCompletionChart": "Biểu đồ công việc hoàn thành của các thành viên",
+        "today": "Hôm nay",
+        "thisWeek": "Tuần này",
+        "thisMonth": "Tháng này",
+        "thisYear": "Năm này",
+        "allTime": "Mọi Lúc",
+        "custom": "Tùy chỉnh",
+        "startDate": "Ngày bắt đầu",
+        "endDate": "Ngày kết thúc"
+    },
+    "button": {
+        "add": "Thêm",
+        "cancel": "Hủy",
+        "captureChart": "Chụp biểu đồ",
+        "close": "Đóng",
+        "delete": "Xóa",
+        "edit": "Chỉnh sửa",
+        "save": "Lưu",
+        "search": "Tìm kiếm",
+        "viewDetail": "Xem chi tiết",
+        "importData": "Nhập Dữ Liệu",
+        "exportData": "Xuất Dữ Liệu"
+    },
+    "menu": {
+        "home1": "Trang chủ 1",
+        "home2": "Trang chủ 2",
+        "member": "Thành viên",
+        "inventory": "Kho",
+        "dashboard": "Bảng điều khiển",
+        "handler": "Người xử lý",
+        "type_abnormal": "Loại bất thường",
+        "dept": "Phòng ban",
+        "jobTracker": "Theo dõi công việc",
+        "about": "Giới thiệu",
+        "actions": "Hành động",
+        "mis_storage": "Kho lưu trữ MIS",
+        "device": "Thiết bị"
+    },
+    "jobTracker": {
+        "stt": "Số thứ tự",
+        "job": "Công việc",
+        "dept": "Phòng ban",
+        "processingTime": "Thời gian xử lý",
+        "numberOfOccurrences": "Số lần xảy ra",
+        "handler": "Người xử lý",
+        "content": "Nội dung",
+        "site": "Địa điểm",
+        "level": "Mức độ",
+        "type": "Loại",
+        "abnormal": "Bất thường",
+        "receivedTime": "Thời gian nhận",
+        "completedTime": "Thời gian hoàn thành",
+        "date": "Ngày",
+        "act": "Hành động",
+        "device": "Thiết bị",
+        "quantity": "Số lượng",
+        "dept_receiver": "Phòng ban nhận",
+        "receiver": "Người nhận",
+        "device_moved_to_storage": "Thiết bị được vận chuyển đến kho",
+        "device_moved_out_storage": "Thiết bị được vận chuyển ra khỏi kho"
+    },
+    "modal": {
+        "saveChanges": "Bạn có chắc chắn muốn lưu các thay đổi này không?",
+        "deleteChanges": "Bạn có chắc chắn muốn xóa công việc này không?"
+    }
+}
